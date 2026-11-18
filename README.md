@@ -1,2 +1,2 @@
-# RED_THREAD_PROJECT
+# RED_THREAD
 integrated circuit red thread project from Mines Saint-Étienne
